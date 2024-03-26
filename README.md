@@ -31,8 +31,8 @@ Thus the program is executed in google colab.
 
 ## Program:
 ```
-### Developed By:Archana k 
-### Register Number:212222240011
+### Developed By:A K MOHAN RAJ
+### Register Number:212221230064
 ```
 i)Image Translation
 ```
